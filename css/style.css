@@ -1,0 +1,19 @@
+/* Style for cars older than 10 years (Red) */
+.old-car {
+    background-color: red;
+    color: white;
+}
+
+/* Style for cars newer than 2 years (Green) */
+.new-car {
+    background-color: green;
+    color: white;
+}
+
+.car-item {
+    padding: 10px;
+    margin: 5px;
+    list-style-type: none;
+    border-radius: 5px;
+}
+
